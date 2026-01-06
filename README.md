@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there, I'm Jonathan 👋
 
-<!--
-**jonathanapwoka20-prog/jonathanapwoka20-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Financial Modeler | Insights Driven
 
-Here are some ideas to get you started:
+I am a results-oriented professional specializing in transforming complex, raw data into actionable business intelligence. My expertise spans across **SQL**, **Power BI**, and **Advanced Excel**, with a strong background in **Financial Modeling** for investment readiness.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## My Tech Stack
+
+* **Data Analysis:** SQL (MS SQL Server), Excel (Power Query, Pivot Tables, Advanced Formulas)
+* **Visualization:** Power BI, DAX, Interactive Dashboards
+* **Financial Modeling:** 3-Statement Integrated Models, DCF Valuation, Sensitivity Analysis, Forecasting
+* **Process:** Data Engineering, E2E Analysis, Stakeholder Communication
+
+---
+
+## Featured Projects
+
+### 🍕 [Pizza Sales Performance Analysis](link-to-your-pizza-repo)
+**Tech:** SQL, Power BI, DAX
+* Built an end-to-end pipeline from SQL Server to Power BI.
+* Analyzed 2015 sales data to identify peak staffing needs (Fridays/Saturdays) and menu performance.
+* Calculated critical KPIs like Total Revenue (817K+) and Average Order Value.
+
+### 📊 [Integrated 3-Statement Financial Model](link-to-your-financial-model-repo)
+**Tech:** Advanced Excel
+* Developed a dynamic 3-year financial forecast for a restaurant seed funding round.
+* Integrated Income Statement, Balance Sheet, and Cash Flow with secondary schedules for Debt (RCF) and Fixed Assets.
+* Performed DCF valuation and multi-variable sensitivity analysis for risk assessment.
+
+### 🚗 [Dynamic Road Safety Analysis Dashboard](link-to-your-road-safety-repo)
+**Tech:** Excel (300K+ records), Power Query
+* Synthesized massive public datasets from Kaggle into a stakeholder-centric dashboard.
+* Used strategic data grouping to track Year-over-Year (YoY) casualty trends and severity distribution.
+* Designed insights specifically for Urban Planners and Emergency Services to drive safety policy.
+
+---
+
+## 📫 Let's Connect!
+
+* **Portfolio:** [Link to your Wix Site]
+* **LinkedIn:** [Link to your LinkedIn Profile]
+* **Email:** [Your Email Address]
+
+---
+
+### "Turning data into narratives that drive decisions."
