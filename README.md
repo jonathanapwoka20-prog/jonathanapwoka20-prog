@@ -39,9 +39,9 @@ I am a results-oriented professional specializing in transforming complex, raw d
 
 ## 📫 Let's Connect!
 
-* **Portfolio:** [Link to your Wix Site]
-* **LinkedIn:** [Link to your LinkedIn Profile]
-* **Email:** [Your Email Address]
+* **Portfolio:** https://jonathanapwoka20.wixsite.com/2024
+* **LinkedIn:** www.linkedin.com/in/jonathan-apwoka
+* **Email:** jonathan.apwoka20@gmail.com
 
 ---
 
