@@ -17,7 +17,7 @@ I am a results-oriented professional specializing in transforming complex, raw d
 
 ## Featured Projects
 
-### 📉 [SQL Data Cleaning & EDA: Global Layoffs](https://github.com/jonathanapwoka20-prog/SQL_Data_Cleaning_EDA_Global_Layoffs)
+### 📉 [SQL Data Cleaning & EDA: Global Layoffs]()
 **Tech:** SQL (CTEs, Window Functions), Data Engineering
 * Orchestrated a full lifecycle data cleaning project on 2,000+ COVID-era layoff records.
 * Implemented multi-layer **Staging Tables** and **Window Functions** for advanced duplicate detection and data integrity.
