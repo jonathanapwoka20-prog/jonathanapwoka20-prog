@@ -17,6 +17,12 @@ I am a results-oriented professional specializing in transforming complex, raw d
 
 ## Featured Projects
 
+### 📉 [SQL Data Cleaning & EDA: Global Layoffs](https://github.com/jonathanapwoka20-prog/SQL_Data_Cleaning_EDA_Global_Layoffs)
+**Tech:** SQL (CTEs, Window Functions), Data Engineering
+* Orchestrated a full lifecycle data cleaning project on 2,000+ COVID-era layoff records.
+* Implemented multi-layer **Staging Tables** and **Window Functions** for advanced duplicate detection and data integrity.
+* Executed complex EDA to reveal insights on industry resilience and rolling layoff trends during the pandemic.
+
 ### 🍕 [Pizza Sales Performance Analysis](https://github.com/jonathanapwoka20-prog/Pizza_Sales_Performance_Analysis_using-SQL-PowerBI)
 **Tech:** SQL, Power BI, DAX
 * Built an end-to-end pipeline from SQL Server to Power BI.
