@@ -8,14 +8,20 @@ I am a results-oriented professional specializing in transforming complex, raw d
 
 ## My Tech Stack
 
-* **Data Analysis:** SQL (MS SQL Server), Excel (Power Query, Pivot Tables, Advanced Formulas)
-* **Visualization:** Power BI, DAX, Interactive Dashboards
+* **Data Analysis:** SQL (Window Functions, CTEs), Excel (Power Query, Pivot Tables, DAX)
+* **Data Transformation:** Data Engineering, Staging Tables, Feature Engineering, Deduplication Logic
+* **Visualization:** Power BI, Interactive Dashboards, Stakeholder Reporting
 * **Financial Modeling:** 3-Statement Integrated Models, DCF Valuation, Sensitivity Analysis, Forecasting
-* **Process:** Data Engineering, E2E Analysis, Stakeholder Communication
 
 ---
 
 ## Featured Projects
+
+### 💰 [Excel Power Query: Salary Insights & Data Cleaning](https://github.com/jonathanapwoka20-prog/YOUR-SALARY-REPO-NAME)
+**Tech:** Excel Power Query, Conditional Logic, Feature Engineering
+* Transformed an unstructured Kaggle salary dataset into a clean, analysis-ready model using professional-grade Power Query workflows.
+* Engineered new analytical features (Salary Midpoints, Role Classification, and Revenue Normalization) from messy text-based fields.
+* Extracted actionable insights on compensation benchmarks across different states, company sizes, and technical roles.
 
 ### 📉 [SQL Data Cleaning & EDA: Global Layoffs](https://github.com/jonathanapwoka20-prog/SQL_Data_Cleaning_-_Exploratory_Data_Analysis_EDA)
 **Tech:** SQL (CTEs, Window Functions), Data Engineering
