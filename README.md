@@ -17,7 +17,7 @@ I am a results-oriented professional specializing in transforming complex, raw d
 
 ## Featured Projects
 
-### 💰 [Excel Power Query: Salary Insights & Data Cleaning](https://github.com/jonathanapwoka20-prog/YOUR-SALARY-REPO-NAME)
+### 💰 [Excel Power Query: Salary Insights & Data Cleaning](https://github.com/jonathanapwoka20-prog/Excel_Power_Query_Data_Cleaning_and_Exploratory_Data_Analysis)
 **Tech:** Excel Power Query, Conditional Logic, Feature Engineering
 * Transformed an unstructured Kaggle salary dataset into a clean, analysis-ready model using professional-grade Power Query workflows.
 * Engineered new analytical features (Salary Midpoints, Role Classification, and Revenue Normalization) from messy text-based fields.
