@@ -17,7 +17,7 @@ and **Advanced Excel**, with a strong background in **Financial Modeling** for i
 ---
 
 ## Featured Projects
-### 🌍 [https://github.com/jonathanapwoka20-prog/Global_Sales_Performance_Analysis_SQL_PowerBi)
+### 🌍 [Global Sales Performance Analysis](https://github.com/jonathanapwoka20-prog/Global_Sales_Performance_Analysis_SQL_PowerBi)
 **Tech:** SQL (Union All, CTEs), Power BI, DAX
 * Engineered a pipeline to consolidate transactional data across 6 international markets (Canada, China, India, Nigeria, UK, US).
 * Handled complex data imputation and ranking of Sales Reps using SQL Window Functions.
@@ -35,7 +35,7 @@ and **Advanced Excel**, with a strong background in **Financial Modeling** for i
 * Implemented multi-layer **Staging Tables** and **Window Functions** for advanced duplicate detection and data integrity.
 * Executed complex EDA to reveal insights on industry resilience and rolling layoff trends during the pandemic.
 
-### 🍕 [https://github.com/jonathanapwoka20-prog/Pizza_Sales_Performance_Analysis_using_SQL_Power-BI)
+### 🍕 [Pizza Sales Performance Analysis](https://github.com/jonathanapwoka20-prog/Pizza_Sales_Performance_Analysis_using_SQL_Power-BI)
 **Tech:** SQL, Power BI, DAX
 * Built an end-to-end pipeline from SQL Server to Power BI.
 * Analyzed 2015 sales data to identify peak staffing needs (Fridays/Saturdays) and menu performance.
