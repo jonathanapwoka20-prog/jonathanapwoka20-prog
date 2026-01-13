@@ -23,7 +23,13 @@ and **Advanced Excel**, with a strong background in **Financial Modeling** for i
 * Handled complex data imputation and ranking of Sales Reps using SQL Window Functions.
 * Designed a dynamic dashboard to track **Discount Impact** and regional profit erosion.
 
-### 💰 [Excel Power Query: Salary Insights & Data Cleaning](https://github.com/jonathanapwoka20-prog/Excel_Power_Query_Data_Cleaning_and_Exploratory_Data_Analysis)
+### 🍕 [Pizza Sales Performance Analysis](https://github.com/jonathanapwoka20-prog/Pizza_Sales_Performance_Analysis_using_SQL_Power-BI)
+**Tech:** SQL, Power BI, DAX
+* Built an end-to-end pipeline from SQL Server to Power BI.
+* Analyzed 2015 sales data to identify peak staffing needs (Fridays/Saturdays) and menu performance.
+* Calculated critical KPIs like Total Revenue and Average Order Value.
+
+### 💰 [Excel Power Query: Data Cleaning & Salary Insights](https://github.com/jonathanapwoka20-prog/Excel_Power_Query_Data_Cleaning_and_Exploratory_Data_Analysis)
 **Tech:** Excel Power Query, Conditional Logic, Feature Engineering
 * Transformed an unstructured Kaggle salary dataset into a clean, analysis-ready model using professional-grade Power Query workflows.
 * Engineered new analytical features (Salary Midpoints, Role Classification, and Revenue Normalization) from messy text-based fields.
@@ -34,12 +40,6 @@ and **Advanced Excel**, with a strong background in **Financial Modeling** for i
 * Orchestrated a full lifecycle data cleaning project on 2,000+ COVID-era layoff records.
 * Implemented multi-layer **Staging Tables** and **Window Functions** for advanced duplicate detection and data integrity.
 * Executed complex EDA to reveal insights on industry resilience and rolling layoff trends during the pandemic.
-
-### 🍕 [Pizza Sales Performance Analysis](https://github.com/jonathanapwoka20-prog/Pizza_Sales_Performance_Analysis_using_SQL_Power-BI)
-**Tech:** SQL, Power BI, DAX
-* Built an end-to-end pipeline from SQL Server to Power BI.
-* Analyzed 2015 sales data to identify peak staffing needs (Fridays/Saturdays) and menu performance.
-* Calculated critical KPIs like Total Revenue and Average Order Value.
 
 ### 📊 [Integrated 3-Statement Financial Model](https://github.com/jonathanapwoka20-prog/Financial-Modeling-Restaurant-Full-Financial-Model-Independent-Project-)
 **Tech:** Advanced Excel
