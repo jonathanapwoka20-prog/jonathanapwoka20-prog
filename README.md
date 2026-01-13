@@ -2,20 +2,26 @@
 
 ### Data Analyst | Financial Modeler | Insights Driven
 
-I am a results-oriented professional specializing in transforming complex, raw data into actionable business intelligence. My expertise spans across **SQL**, **Power BI**, and **Advanced Excel**, with a strong background in **Financial Modeling** for investment readiness.
+I am a results-oriented professional specializing in transforming complex, raw data into actionable business intelligence. My expertise spans across **SQL**, **Power BI**
+and **Advanced Excel**, with a strong background in **Financial Modeling** for investment readiness and global data consolidation.
 
 ---
 
-## My Tech Stack
+## 🛠️ My Tech Stack
 
-* **Data Analysis:** SQL (Window Functions, CTEs), Excel (Power Query, Pivot Tables, DAX)
-* **Data Transformation:** Data Engineering, Staging Tables, Feature Engineering, Deduplication Logic
-* **Visualization:** Power BI, Interactive Dashboards, Stakeholder Reporting
-* **Financial Modeling:** 3-Statement Integrated Models, DCF Valuation, Sensitivity Analysis, Forecasting
+* **Data Analysis:** SQL (Window Functions, CTEs, Data Imputation), Excel (Power Query, DAX)
+* **Data Transformation:** E2E ETL Pipelines, Global Data Consolidation, Feature Engineering
+* **Visualization:** Power BI (Star Schema, User-Centric Dashboards), Stakeholder Reporting
+* **Financial Modeling:** 3-Statement Integrated Models, DCF Valuation, Sensitivity Analysis
 
 ---
 
 ## Featured Projects
+### 🌍 [Global Sales Performance Analysis](https://github.com/jonathanapwoka20-prog/Global_Sales_Performance_Analysis)
+**Tech:** SQL (Union All, CTEs), Power BI, DAX
+* Engineered a pipeline to consolidate transactional data across 6 international markets (Canada, China, India, Nigeria, UK, US).
+* Handled complex data imputation and ranking of Sales Reps using SQL Window Functions.
+* Designed a dynamic dashboard to track **Discount Impact** and regional profit erosion.
 
 ### 💰 [Excel Power Query: Salary Insights & Data Cleaning](https://github.com/jonathanapwoka20-prog/Excel_Power_Query_Data_Cleaning_and_Exploratory_Data_Analysis)
 **Tech:** Excel Power Query, Conditional Logic, Feature Engineering
@@ -33,7 +39,7 @@ I am a results-oriented professional specializing in transforming complex, raw d
 **Tech:** SQL, Power BI, DAX
 * Built an end-to-end pipeline from SQL Server to Power BI.
 * Analyzed 2015 sales data to identify peak staffing needs (Fridays/Saturdays) and menu performance.
-* Calculated critical KPIs like Total Revenue (817K+) and Average Order Value.
+* Calculated critical KPIs like Total Revenue and Average Order Value.
 
 ### 📊 [Integrated 3-Statement Financial Model](https://github.com/jonathanapwoka20-prog/Financial-Modeling-Restaurant-Full-Financial-Model-Independent-Project-)
 **Tech:** Advanced Excel
