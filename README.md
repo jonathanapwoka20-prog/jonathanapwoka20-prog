@@ -20,7 +20,7 @@ I specialize in bridging the gap between **complex data engineering** and **exec
 * **Advisory Impact:** Engineered an audit-ready, 3-year dynamic model for a restaurant seed round, identifying a **KSh 22.5M capital requirement** and a **Month 14 operational breakeven**.
 * **Technical Depth:** Integrated P&L, Balance Sheet, and Cash Flow via the indirect method, featuring a **756% Operating Cash Flow growth** trajectory.
 
-### 📉 [SQL Data Cleaning & EDA: Global Layoffs](https://github.com/jonathanapwoka20-prog/SQL_Data_Cleaning-_Exploratory_Data_Analysis_EDA)
+### 📉 [SQL Data Cleaning & EDA: Global Layoffs](https://github.com/jonathanapwoka20-prog/SQL_Data_Cleaning_-_Exploratory_Data_Analysis_EDA)
 **Tech:** MySQL (Multi-Layer Staging, Window Functions)
 * **Governance:** Orchestrated a full-lifecycle cleaning project on 2,000+ records, implementing **Self-Joins** for data imputation and a **741% crisis velocity metric**.
 * **Insight:** Revealed critical industry resilience patterns and **Liquidity Paradox** trends during the COVID-19 era.
