@@ -1,57 +1,47 @@
 # Hi there, I'm Jonathan 👋
+### Financial Strategy Professional | Data Architect | Analytics Lead
 
-### Data Analyst | Financial Modeler | Insights Driven
-
-I am a results-oriented professional specializing in transforming complex, raw data into actionable business intelligence. My expertise spans across **SQL**, **Power BI**
-and **Advanced Excel**, with a strong background in **Financial Modeling** for investment readiness and global data consolidation.
+I specialize in bridging the gap between **complex data engineering** and **executive decision-making**. With a background in **Global Banking & Finance**, I engineer scalable ETL pipelines and high-fidelity financial models that transform raw, unstructured data into auditable business intelligence.
 
 ---
 
 ## 🛠️ My Tech Stack
 
-* **Data Analysis:** SQL (Window Functions, CTEs, Data Imputation), Excel (Power Query, DAX)
-* **Data Transformation:** E2E ETL Pipelines, Global Data Consolidation, Feature Engineering
-* **Visualization:** Power BI (Star Schema, User-Centric Dashboards), Stakeholder Reporting
-* **Financial Modeling:** 3-Statement Integrated Models, DCF Valuation, Sensitivity Analysis
+* **Data Architecture & ETL:** SQL (CTEs, Window Functions, Data Imputation), Power Query (M-Language), Global Data Consolidation.
+* **Financial Strategy:** Integrated 3-Statement Modeling, DCF Valuation, Sensitivity Analysis, Capital Structure Optimization.
+* **Business Intelligence:** Power BI (Star Schema, DAX), Excel Data Modeling, Stakeholder-Centric Storytelling.
 
 ---
 
-## Featured Projects
-### 🌍 [Global Sales Performance Analysis](https://github.com/jonathanapwoka20-prog/Global_Sales_Performance_Analysis_SQL_PowerBi)
-**Tech:** SQL (Union All, CTEs), Power BI, DAX
-* Engineered a pipeline to consolidate transactional data across 6 international markets (Canada, China, India, Nigeria, UK, US).
-* Handled complex data imputation and ranking of Sales Reps using SQL Window Functions.
-* Designed a dynamic dashboard to track **Discount Impact** and regional profit erosion.
-
-### 🍕 [Pizza Sales Performance Analysis](https://github.com/jonathanapwoka20-prog/Pizza_Sales_Performance_Analysis_using_SQL_Power-BI)
-**Tech:** SQL, Power BI, DAX
-* Built an end-to-end pipeline from SQL Server to Power BI.
-* Analyzed 2015 sales data to identify peak staffing needs (Fridays/Saturdays) and menu performance.
-* Calculated critical KPIs like Total Revenue and Average Order Value.
-
-### 💰 [Excel Power Query: Data Cleaning & Salary Insights](https://github.com/jonathanapwoka20-prog/Excel_Power_Query_Data_Cleaning_and_Exploratory_Data_Analysis)
-**Tech:** Excel Power Query, Conditional Logic, Feature Engineering
-* Transformed an unstructured Kaggle salary dataset into a clean, analysis-ready model using professional-grade Power Query workflows.
-* Engineered new analytical features (Salary Midpoints, Role Classification, and Revenue Normalization) from messy text-based fields.
-* Extracted actionable insights on compensation benchmarks across different states, company sizes, and technical roles.
-
-### 📉 [SQL Data Cleaning & EDA: Global Layoffs](https://github.com/jonathanapwoka20-prog/SQL_Data_Cleaning_-_Exploratory_Data_Analysis_EDA)
-**Tech:** SQL (CTEs, Window Functions), Data Engineering
-* Orchestrated a full lifecycle data cleaning project on 2,000+ COVID-era layoff records.
-* Implemented multi-layer **Staging Tables** and **Window Functions** for advanced duplicate detection and data integrity.
-* Executed complex EDA to reveal insights on industry resilience and rolling layoff trends during the pandemic.
+## 🚀 Featured Strategic Projects
 
 ### 📊 [Integrated 3-Statement Financial Model](https://github.com/jonathanapwoka20-prog/Financial-Modeling-Restaurant-Full-Financial-Model-Independent-Project-)
-**Tech:** Advanced Excel
-* Developed a dynamic 3-year financial forecast for a restaurant seed funding round.
-* Integrated Income Statement, Balance Sheet, and Cash Flow with secondary schedules for Debt (RCF) and Fixed Assets.
-* Performed DCF valuation and multi-variable sensitivity analysis for risk assessment.
+**Tech:** Advanced Excel (Modular Driver Architecture)
+* **Advisory Impact:** Engineered an audit-ready, 3-year dynamic model for a restaurant seed round, identifying a **KSh 22.5M capital requirement** and a **Month 14 operational breakeven**.
+* **Technical Depth:** Integrated P&L, Balance Sheet, and Cash Flow via the indirect method, featuring a **756% Operating Cash Flow growth** trajectory.
 
-### 🚗 [Dynamic Road Safety Analysis Dashboard](https://github.com/jonathanapwoka20-prog/Dynamic_Road_Safety_Analysis_Dashboard-2021-2022-)
-**Tech:** Excel (300K+ records), Power Query
-* Synthesized massive public datasets from Kaggle into a stakeholder-centric dashboard.
-* Used strategic data grouping to track Year-over-Year (YoY) casualty trends and severity distribution.
-* Designed insights specifically for Urban Planners and Emergency Services to drive safety policy.
+### 📉 [SQL Data Cleaning & EDA: Global Layoffs](https://github.com/jonathanapwoka20-prog/SQL_Data_Cleaning-_Exploratory_Data_Analysis_EDA)
+**Tech:** MySQL (Multi-Layer Staging, Window Functions)
+* **Governance:** Orchestrated a full-lifecycle cleaning project on 2,000+ records, implementing **Self-Joins** for data imputation and a **741% crisis velocity metric**.
+* **Insight:** Revealed critical industry resilience patterns and **Liquidity Paradox** trends during the COVID-19 era.
+
+### 🍕 [Pizza Sales Performance Analysis](https://github.com/jonathanapwoka20-prog/Pizza_Sales_Performance_Analysis_using_SQL_Power-BI)
+**Tech:** SQL Server, Power BI, DAX
+* **Operations:** Built an E2E pipeline to identify peak staffing needs and menu rationalization, tracking critical KPIs like **Average Order Value (AOV)**.
+* **Commercial Logic:** Linked product performance to **Working Capital insights**, identifying high-risk, low-turnover menu items.
+
+### 🛣️ [Dynamic Road Safety Analysis Dashboard](https://github.com/jonathanapwoka20-prog/Dynamic_Road_Safety_Analysis_Dashboard-2021-2022-)
+**Tech:** Excel (Power Query, 300K+ Records)
+* **Big Data Engineering:** Synthesized **300,000+ public records** into a performant, stakeholder-centric dashboard for urban planners and emergency services.
+* **Infrastructure Risk:** Quantified the **Single Carriageway risk profile** (309K casualties) to drive evidence-based safety policy.
+
+### 🌍 [Global Sales Performance Analysis](https://github.com/jonathanapwoka20-prog/Global_Sales_Performance_Analysis_SQL_PowerBi)
+**Tech:** SQL (Union All, CTEs), Power BI
+* **Consolidation:** Engineered a pipeline consolidating transactional data across **6 international markets**, handling complex regional profit erosion and discount impacts.
+
+### 💡 [Excel Power Query: Salary Insights](https://github.com/jonathanapwoka20-prog/Excel_Power_Query_Data_Cleaning_and_Exploratory_Data_Analysis)
+**Tech:** Power Query (M-Language), Feature Engineering
+* **ETL Automation:** Transformed unstructured Kaggle data into an automated cleaning script for **compensation benchmarking** across states and technical roles.
 
 ---
 
@@ -61,6 +51,4 @@ and **Advanced Excel**, with a strong background in **Financial Modeling** for i
 [![Portfolio](https://img.shields.io/badge/Wix_Portfolio-000000?style=for-the-badge&logo=wix&logoColor=white)](https://jonathanapwoka20.wixsite.com/2024)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathan.apwoka20@gmail.com)
 
----
-
-### "Turning data into narratives that drive decisions."
+**"Turning data into narratives that drive high-stakes decisions."** 
