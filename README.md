@@ -13,7 +13,9 @@ I specialize in bridging the gap between **complex data engineering** and **exec
 
 ---
 
-## 🚀 Featured Strategic Projects (Click on each project to view)
+## 🚀 Featured Strategic Projects 
+
+### Click on each project for a detailed view
 
 ### 📊 [Integrated 3-Statement Financial Model](https://github.com/jonathanapwoka20-prog/Financial-Modeling-Restaurant-Full-Financial-Model-Independent-Project-)
 **Tech:** Advanced Excel (Modular Driver Architecture)
