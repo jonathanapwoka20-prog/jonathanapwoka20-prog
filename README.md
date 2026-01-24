@@ -1,7 +1,7 @@
 # Hi there, I'm Jonathan 👋
 ### Financial Strategy Professional | Data Architect | Analytics Lead
 
-I specialize in bridging the gap between **complex data engineering** and **executive decision-making**. With a background in **Global Banking & Finance**, I engineer scalable ETL pipelines and high-fidelity financial models that transform raw, unstructured data into auditable business intelligence.
+I specialize in bridging the gap between **complex data engineering** and **executive decision-making**. With a background in **Global Banking & Finance (MSc) and Economics & Statistics (BSc)**, I engineer scalable ETL pipelines and high-fidelity financial models that transform raw, unstructured data into auditable business intelligence.
 
 ---
 
